@@ -1,0 +1,7 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/Source Code/Insulated Joint Plate/bin/SpacedOutRelease
+/Source Code/Insulated Joint Plate/obj/SpacedOutRelease
+/.vs
